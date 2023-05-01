@@ -3,6 +3,7 @@ public class sum {
         int a = 1;
         int b = 20;
         int sum = a + b;
+        kshfkf;
         System.out.print(sum);
     }
     
